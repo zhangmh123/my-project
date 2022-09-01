@@ -4,3 +4,4 @@
 out/
 build/
 bin/
+.vscode/settings.json
